@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(26, 24, 24);
+    color: aliceblue;
+}
+.fonts{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imoji-setup{
+    height: 120px;
+}
+.imoji-makeup{
+    background-color: transparent;
+    border: none;
+}
+.height{
+    margin-top:35px ;
+    margin-bottom: 35px;
+}
